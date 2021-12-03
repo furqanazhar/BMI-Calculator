@@ -11,10 +11,10 @@ Windows 10,11
 # Unit Testing
 
 Run below command to execute unit testing
-''
+```bash
 pytest test_app.py
+```
 
-''
 Output is shown in console which contains below info
 1. No. of tests 
 2. No. of tests passed
