@@ -6,7 +6,7 @@ Below is the output result:
 2. Total number of 'Overweight' people.
 
 # Tested Environment
-Windows 10,11
+Windows 11
 Visual Studio Code
 
 # Unit Testing
