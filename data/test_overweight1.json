@@ -1,0 +1,3 @@
+[{"Gender": "Male", "HeightCm": 171, "WeightKg": 46, "BMI": 26.9, "BMICategory": "OverWeight", "HealthRisk": "Enhanced Risk"},
+ {"Gender": "Male", "HeightCm": 161, "WeightKg": 85, "BMI": 52.8, "BMICategory": "Very Severely Obese", "HealthRisk": "Very High Risk"},
+ {"Gender": "Male", "HeightCm": 180, "WeightKg": 52, "BMI": 28.9, "BMICategory": "OverWeight", "HealthRisk": "Enhanced Risk"}]
