@@ -3,7 +3,7 @@ This application calculates BMI by reading an input json file (`data/data.json`)
 
 Below is the output result:
 1. BMI Values, BMI Category and Health Risk (added in output json file in path `data/result.json`)
-2. Total number of 'Overweight' people
+2. Total number of overweight people
 
 # Tested Environment
 Windows 11
