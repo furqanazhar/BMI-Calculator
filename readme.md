@@ -6,8 +6,8 @@ Below is the output result:
 2. Total number of overweight people
 
 # Tested Environment
-Windows 11
-Visual Studio Code
+Windows 11\
+Visual Studio Code\
 Python 3.8.8
 
 # Unit Testing
