@@ -1,8 +1,8 @@
 # BMI Calculator
-This application reads an input json file of people with their respective weights and heights.
+This application reads an input json file ('data/data.json') of people with their respective weights and heights.
 
 Below is the output result:
-1. BMI Values, BMI Category and Health Risk (added in output json file in path [data/result.json])
+1. BMI Values, BMI Category and Health Risk (added in output json file in path 'data/result.json')
 2. Total number of 'Overweight' people
 
 # Tested Environment
