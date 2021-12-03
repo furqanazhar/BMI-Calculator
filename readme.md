@@ -1,7 +1,9 @@
 # BMI Calculator
 This application reads an input json file of people with their respective weights and heights.
-It calculates their BMI values, BMI Category and Health Risk
-It also counts the total number of 'Overweight' people
+
+Below is the output result
+1. BMI values, BMI Category and Health Risk.
+2. Total number of 'Overweight' people.
 
 # Tested Environment
 Windows 10,11
