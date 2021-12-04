@@ -17,7 +17,7 @@ Run below command in windows shell to perform unit testing
 pytest test_app.py
 ```
 
-Output is shown in console which contains below info:
+Output is shown in console which contains below information:
 1. Total number of tests
 2. Total number of tests passed
 3. Total number of tests failed
@@ -28,9 +28,10 @@ Output is shown in console which contains below info:
 1. Run build.exe file located in root folder of project to run application
 2. After .exe file gets finished, go to `data/result.json` to find output file
 
-# How to Generate .exe file of a python script
+# How to generate .exe file of a python script
 Run below command in windows shell to run updated .exe file in case you make any changes in scripts
 ```bash
+pip install pyinstaller
 pyinstaller --onefile --name build app.py
 ```
 3rd argument 'build' here is the filename of generated exe. You can name it anything. 
