@@ -34,10 +34,10 @@ def write_file(dictionary):
     with open('data/result.json', 'w') as fp:
         json.dump(dictionary, fp, indent=1)
 
-# Main Program
+if __name__ == '__main__':
 
-file_path = 'data/data.json'
+    file_path = 'data/data.json'
 
-bmi_dictionary = read_file(file_path)
+    bmi_dictionary = read_file(file_path)
 
-write_file(bmi_dictionary)
+    write_file(bmi_dictionary)
