@@ -18,8 +18,8 @@ pytest test_app.py
 ```
 
 Output is shown in console which contains below info:
-1. No. of tests
-2. No. of tests passed
-3. No. of tests failed
-4. Execution time
+1. Total number of tests
+2. Total number of tests passed
+3. Total number of tests failed
+4. Total execution time
 
