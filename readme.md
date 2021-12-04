@@ -12,7 +12,7 @@ Python 3.8.8
 
 # Unit Testing
 
-Run below command to execute unit testing
+Run below command in windows shell to perform unit testing
 ```bash
 pytest test_app.py
 ```
@@ -23,3 +23,14 @@ Output is shown in console which contains below info:
 3. Total number of tests failed
 4. Total execution time
 
+# Execution
+
+1. Run build.exe file located in root folder of project to run application
+2. After .exe file gets finished, go to `data/result.json` to find output file
+
+# How to Generate .exe file of a python script
+Run below command in windows shell to run updated .exe file in case you make any changes in scripts
+```bash
+pyinstaller --onefile --name build app.py
+```
+3rd argument 'build' here is the filename of generated exe. You can name it anything. 
