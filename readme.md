@@ -35,3 +35,4 @@ pip install pyinstaller
 pyinstaller --onefile --name build app.py
 ```
 3rd argument 'build' here is the filename of generated exe. You can name it anything. 
+4th argument app.py is the main python script file name whose exe needs to be generated
