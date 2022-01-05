@@ -10,6 +10,11 @@ Windows 11\
 Visual Studio Code\
 Python 3.8.8
 
+# Execution
+
+1. Run build.exe file located in root folder of project to run application
+2. After .exe file gets finished, go to `data/result.json` to find output file
+
 # Unit Testing
 
 Run below command in windows shell to perform unit testing
@@ -22,11 +27,6 @@ Output is shown in console which contains below information:
 2. Total number of tests passed
 3. Total number of tests failed
 4. Total execution time
-
-# Execution
-
-1. Run build.exe file located in root folder of project to run application
-2. After .exe file gets finished, go to `data/result.json` to find output file
 
 # How to generate .exe file of a python script
 Run below command in windows shell to run updated .exe file in case you make any changes in scripts
